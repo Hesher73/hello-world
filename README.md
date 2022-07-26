@@ -1,5 +1,5 @@
 # hello-world
 for others thinks
 
-Hello епт)
+Hello
 I will be the best programmer you ever seen!
